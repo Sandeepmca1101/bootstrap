@@ -93,6 +93,45 @@ Sizing-Borders
 Css Break points
 
     @media(min-width:1200px)
+
+Buttons 
+    -type="button" class="btn"/btn-primary/btn-secondary/btn-success/btn-info/warning/danger/dark/light/link
+	
+	Type
+	  submit/reset/button/info
+	  
+	btn-outline-primary -->light on ohover dark
+    btn-outline-secondary	/success/danger/warning
+	
+	Icon
+	  -<button class="btn btn-primary" type="button"><i class="fas fa-user"></>Large</button> 
+	 
+    Size
+     -btn-lg
+     -btn-sm
+     -btn-block
+   
+    States 
+	  -active
+      -disabled
+      -data-toggle="button" change colour on click 
+    
+     Group 
+      -btn-group
+
+    Toolbar
+     -btn-toolbar
+    
+    btn-group-vertical	
+	
+	DropDown
+	 type="button" <button data-toggle="dropdown">NAME</button>
+	 <div class="dropdown-menu">
+	   <a class="dropdown-item" href="">1ink</a>
+	   <a class="dropdown-item" href="">1ink2</a>
+	   <div classs="dropdwon divider"></div>
+	   <a class="dropdown-item" href="">1ink3</a>
+	   
    	   
 	   
 	 
