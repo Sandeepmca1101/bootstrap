@@ -1,0 +1,153 @@
+Live server 
+esbenp.prettier-vscode
+Prettier
+
+lorem20
+Rem =16 pixel
+
+display-1-4
+
+for paragraph Lead + text-momnospace ,font-weight-bold ,font -weight-normal/italic
+
+Text = text-lowercase,text-uppercase,text-capitazlized,Blockquote 
+
+footer blockqquote-footer
+List= class="list-unstyled" for removing bullets  "
+      list in same line =list-inline +list-inline-items
+	  
+	  
+para="text-justify" +text-left +text-right/center	  
+      text-sm-right  /md-right/text-lg-right/text-xl-right
+	  Center=text-sm-center/md/lg/xl 
+
+Vertical line =aligh-top/bottom,middle/text-top/text-bottom
+
+Block-Inline =bg-sucess
+              d-inline bg-success  
+
+           =>bg-premary (span) +d-block bg-primary DIV level
+		    bg-warning+d-inline-block   ===========INLINE for same Line ===========
+			
+Float-Fixed			
+    =classs="float-left"/none
+     -float-sm-right/left	 
+	 -float-md-right/left	 
+	 -float-lg-right/left	
+	 -float-xl-right/left		 
+	 
+	 -clearfix ===>***
+	 
+	 -Fixed-top
+	 -sticky-top
+	 
+	 -fixed-bottom
+	 
+Colours-Background
+    class="text-primary"/secondary=muted(lighter)//success(Green) /info /warning(yellow)/danger(red/light/dark/black-50
+   
+    class="bg-primary"+"bg-primary text-white(For white font colour)"/bg=-secondary/yellow/danger/warning/info 
+    
+Links 
+    -<a href='#' class	="text-primary"/secondary/info/danger/dark/muted>
+	
+
+Margins
+    class=" mb-0" =>no margins between next line 
+    class="mb-1" bottom  -less difference in next line  /2/3/4/5
+	
+	Top (mt)
+	  mt-0/mt-1/2/3/4/5
+	  
+	Left/Right(ml mr)  
+	  mr-1/2/3/4/5/
+      ml 1/2/3/4/5/
+	  m-5
+	  
+	Padding bottom 
+     -pb-0/1/2/3/4
+
+    Padding top 
+     -pt-0/1/2/3/4/5
+    
+	pl-2
+    px-5
+    py-5 	
+	
+	All center padding - p-3 bg-warning
+	Horizontal center- bg-info mx-auto 
+	
+Sizing-Borders
+    -w-25(%)/50/75/100/auto
+    
+    Height
+	-h-25/50/75/100/auto
+	
+	Border 
+	 -border
+	 -border-top/bottom/right/left
+	 border-colours
+	   -border-primary/secondary/success/info/warning/light
+	   class="rounded*"*/ rounded-circle
+	   w-25
+	   
+Css Break points
+
+    @media(min-width:1200px)
+   	   
+	   
+	 
+	
+  	
+	
+	
+	
+	
+	
+	
+	
+	
+	 
+
+	  
+	
+	
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	  
+	  
+
+
+
+
+
