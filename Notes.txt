@@ -132,6 +132,38 @@ Buttons
 	   <div classs="dropdwon divider"></div>
 	   <a class="dropdown-item" href="">1ink3</a>
 	   
+Nav Bar
+	<nav class="navbar navbar-expand-sm">
+		<div>
+
+Form 
+   
+class="form group" 
+     ="form-control"
+     ="form-control-lg"/sm/	 
+	 ="form-text text-muted =" to display message 
+	 =is-valid /is-invalid(is -invalid-feedback) (JS)
+	
+3_6.Input Groups 	(Append Sybols with input(text+sybols etc)
+     class="input-group-prepend" with form-control +(input-group-text)
+	 
+	 Class=="input-group mb-3"
+	 
+
+3_7.Alerts
+     	 
+    class="alert alert-primary"/secondary/success/info/warning/light
+	
+	  	
+3_8Tables_Pagenation
+    
+    class="table table-dark"/table table-stripped/table table-bordered
+
+    Border less table table-borderless
+   
+    table table-hover
+
+    Scrollbars =table table-responsive	
    	   
 	   
 	 
